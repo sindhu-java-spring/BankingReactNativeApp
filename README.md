@@ -1,6 +1,6 @@
 # BankingReactNativeApp
 
-# Tab-Based Authentication App
+# Tab-Based Banking App
 
 This is a simple React Native app that provides a tab-based interface for user authentication. Users can switch between "Register" and "Login" tabs to either create a new account or log in to an existing one. The app includes form validation and mock service integration for login functionality.
 
